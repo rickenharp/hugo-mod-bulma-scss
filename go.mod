@@ -1,4 +1,4 @@
-module github.com/rickenharp/hugo-mod-bulma-css
+module github.com/rickenharp/hugo-mod-bulma-scss
 
 go 1.24.5
 
