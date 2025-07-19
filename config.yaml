@@ -1,6 +1,9 @@
 module:
+  hugoVersion:
+    extended: true
   imports:
     - path: github.com/jgthms/bulma
       mounts:
-        source: sass
-        target: assets/bulma
+        source: .
+        target: assets/scss/bulma
+
